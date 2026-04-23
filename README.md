@@ -1,21 +1,21 @@
 # Hola, soy Kevin Vargas 👋
 
-Soy estudiante de Ingeniería en Tecnologia de Software en FIME enfocado en fortalecer mis bases en programación y desarrollo web.
+Soy estudiante de Ingeniería en Tecnología de Software en FIME, enfocado en fortalecer mis bases en programación y desarrollo web.
 
 ## 🚀 Actualmente aprendiendo
 - HTML y CSS
-- JavaScript y Java (fundamentos)
+- JavaScript (fundamentos)
 - Programación orientada a objetos
 - React (explorando)
 
 ## 🛠️ Tecnologías
 - HTML
 - CSS
-- Java
 - JavaScript
+- Java (básico)
 
 ## 📂 Proyectos
-- Próximamente subiré ejercicios y proyectos mientras avanzo en mi aprendizaje.
+Próximamente subiré ejercicios y proyectos mientras avanzo en mi aprendizaje.
 
 ## 🎯 Objetivo
 Desarrollar bases sólidas en programación y crear proyectos web funcionales.
