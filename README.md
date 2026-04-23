@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Kevin Vargas 👋
 
-<!--
-**kevin-dev04/kevin-dev04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Tecnologia de Software en FIME enfocado en fortalecer mis bases en programación y desarrollo web.
 
-Here are some ideas to get you started:
+## 🚀 Actualmente aprendiendo
+- HTML y CSS
+- JavaScript y Java (fundamentos)
+- Programación orientada a objetos
+- React (explorando)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- HTML
+- CSS
+- Java
+- JavaScript
+
+## 📂 Proyectos
+- Próximamente subiré ejercicios y proyectos mientras avanzo en mi aprendizaje.
+
+## 🎯 Objetivo
+Desarrollar bases sólidas en programación y crear proyectos web funcionales.
+
+## 📫 Contacto
+- k.vargasb2004@gmail.com
+  
